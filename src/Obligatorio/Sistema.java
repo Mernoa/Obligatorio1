@@ -3,7 +3,7 @@ package Obligatorio;
 public class Sistema {
 	Ficha [] fichasUno;
 	Ficha [] fichasDos;
-	
+	//comentario prueba-----
 	public Sistema(){
 		fichasUno = new Ficha[9];
 		fichasDos = new Ficha[9];
