@@ -16,7 +16,6 @@ public class Juego {
 				}else {
 					System.out.print(tab.matriz[i][j]);
 				}
-				
 			}
 			System.out.println();
 		}
